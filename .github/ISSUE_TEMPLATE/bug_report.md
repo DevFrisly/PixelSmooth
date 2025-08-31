@@ -19,5 +19,5 @@ If applicable, add screenshots or paste crash logs.
 ### 🖥️ Environment
 - Minecraft Version: 
 - PixelSmooth Version: 
-- Launcher (Feather / Prism / Other): 
+- Launcher (TLauncher / Prism / Other): 
 - Operating System:
